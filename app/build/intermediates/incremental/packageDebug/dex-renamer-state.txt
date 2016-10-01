@@ -1,0 +1,7 @@
+#Sat Oct 01 01:23:03 PDT 2016
+base.0=C\:\\Users\\sdshah10\\Downloads\\Health-Monitoring-UI-30-9\\Health-Monitoring-UI-30-9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d21879bc4b1693ecb80e6bacda975a2f9673d598
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sdshah10\\Downloads\\Health-Monitoring-UI-30-9\\Health-Monitoring-UI-30-9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9612e69bd6349f50d0a584d998d4837a4ccf5bf0\\classes.dex
+base.1=C\:\\Users\\sdshah10\\Downloads\\Health-Monitoring-UI-30-9\\Health-Monitoring-UI-30-9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9612e69bd6349f50d0a584d998d4837a4ccf5bf0
+file.0=C\:\\Users\\sdshah10\\Downloads\\Health-Monitoring-UI-30-9\\Health-Monitoring-UI-30-9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d21879bc4b1693ecb80e6bacda975a2f9673d598\\classes.dex

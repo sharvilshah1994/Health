@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="24572819380562"
+    token="-6533907044144241048"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="541" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="67" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="C:\Users\sdshah10\Downloads\Health-Monitoring-UI-30-9\Health-Monitoring-UI-30-9\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="22720442239184"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\sdshah10\Downloads\Health-Monitoring-UI-30-9\Health-Monitoring-UI-30-9\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="24572819380562"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\sdshah10\Downloads\Health-Monitoring-UI-30-9\Health-Monitoring-UI-30-9\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
